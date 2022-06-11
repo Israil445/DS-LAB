@@ -21,6 +21,7 @@ int push(int data){
     }
     else {
         printf(" stack over-flow \n");
+        
     }
 }
 
